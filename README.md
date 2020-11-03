@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/leogadil/Jarvis">
-    <img src="logo.png" alt="Logo" width="400" height="120">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">JARVIS</h3>
