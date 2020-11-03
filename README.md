@@ -30,10 +30,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/leogadil/Jarvis">
-    <img src="images/logo.png" alt="Logo" width="400" height="120">
+    <img src="logo.png" alt="Logo" width="400" height="120">
   </a>
 
-  <h3 align="center">AllPost</h3>
+  <h3 align="center">JARVIS</h3>
 
   <p align="center">
     Custom Artificial Intelligence for my purpose
