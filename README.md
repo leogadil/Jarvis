@@ -33,10 +33,10 @@
     <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">JARVIS</h3>
+  <h3 align="center">David</h3>
 
   <p align="center">
-    Custom Artificial Intelligence for my purpose
+    David is a chatbot, using deep learning.
     <br />
     <!-- <a href="" disabled><strong>Explore the docs »</strong></a> -->
     <!-- <br /> -->
